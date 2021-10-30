@@ -1,2 +1,2 @@
 # leetCodeAnswers
-A project of my leetcode solutions
+A project of my leetcode solutions in javascript
